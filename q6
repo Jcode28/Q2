@@ -1,1 +1,131 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Blog</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f9fa;
+        }
+        header {
+            background-color: #007bff;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        nav {
+            text-align: center;
+            padding: 10px;
+            background-color: #0056b3;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        .container {
+            display: flex;
+            justify-content: space-between;
+            padding: 20px;
+        }
+        .main-content {
+            width: 70%;
+            background: white;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .sidebar {
+            width: 25%;
+            background: white;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        article {
+            margin-bottom: 20px;
+        }
+        h2 {
+            color: #007bff;
+        }
+        footer {
+            text-align: center;
+            background: #343a40;
+            color: white;
+            padding: 10px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <h1>My Personal Blog</h1>
+        <p>Welcome to my thoughts, stories, and experiences.</p>
+    </header>
+
+    <!-- Navigation Menu -->
+    <nav>
+        <a href="#">Home</a> | 
+        <a href="#">About</a> | 
+        <a href="#">Blog</a> | 
+        <a href="#">Contact</a>
+    </nav>
+
+    <!-- Main Blog Content -->
+    <div class="container">
+        <div class="main-content">
+            <article>
+                <h2>First Blog Post</h2>
+                <p><strong>Published on:</strong> March 30, 2025</p>
+                <p>
+                    This is my first blog post! I'm excited to share my thoughts and experiences with you. Blogging has always been a way to express 
+                    creativity and share knowledge. Stay tuned for more updates!
+                </p>
+                <p><a href="#">Read more...</a></p>
+            </article>
+
+            <article>
+                <h2>Exploring the Beauty of Nature</h2>
+                <p><strong>Published on:</strong> March 25, 2025</p>
+                <p>
+                    Nature is a wonderful gift to humanity. Exploring mountains, rivers, and forests can bring peace and joy. In this blog, 
+                    I share my latest adventure into the heart of the wilderness.
+                </p>
+                <p><a href="#">Read more...</a></p>
+            </article>
+        </div>
+
+        <!-- Sidebar Section -->
+        <aside class="sidebar">
+            <h3>Recent Posts</h3>
+            <ul>
+                <li><a href="#">First Blog Post</a></li>
+                <li><a href="#">Exploring the Beauty of Nature</a></li>
+                <li><a href="#">How to Stay Motivated</a></li>
+            </ul>
+
+            <h3>Categories</h3>
+            <ul>
+                <li><a href="#">Travel</a></li>
+                <li><a href="#">Technology</a></li>
+                <li><a href="#">Lifestyle</a></li>
+            </ul>
+        </aside>
+    </div>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; 2025 My Blog. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
