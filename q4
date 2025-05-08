@@ -1,1 +1,44 @@
 
+<!DOCTYPE html>
+<html>
+<head>
+    <title align='center'>Palakkad - The Gateway to Kerala</title>
+</head>
+<body background="https://plus.unsplash.com/premium_photo-1701534008693-0eee0632d47a?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+">
+     <header>
+    <img src="https://www.keralatourism.org/images/2024/logo.png" alt="Palakkad Logo" width="130">
+</header>
+
+      <h1 style="text-align: center;">Palakkad - The Gateway to Kerala</h1>
+    <hr>
+    
+    <h2>About Palakkad</h2>
+    <p>Palakkad, also known as the "Rice Bowl of Kerala," is a land of lush greenery, historical forts, and breathtaking landscapes.Palakkad is located at the foot of the Western Ghats and is a perfect blend of history, nature, and culture.</p>
+    
+    <h2>Tourist Attractions</h2>
+    <ul>
+        <li>Palakkad Fort</li>
+        <li>Malampuzha Dam</li>
+        <li>Silent Valley National Park</li>
+        <li>Dhoni Waterfalls</li>
+        <li>Nelliyampathy Hills</li>
+    </ul>
+    
+    <h2>Culture and Heritage</h2>
+    <p>Palakkad is rich in cultural heritage, known for its classical music, traditional festivals, and vibrant temple arts.</p>
+    
+    <h2>Best Time to Visit</h2>
+    <p>The best time to visit Palakkad is from September to March, when the weather is cool and pleasant.</p>
+    
+    <h2>How to Reach</h2>
+    <p><strong>By Air:</strong> The nearest airport is Coimbatore International Airport.</p>
+    <p><strong>By Train:</strong> Palakkad Junction and Palakkad Town Railway Stations connect the district to major cities.</p>
+    <p><strong>By Road:</strong> Palakkad is well-connected by roads from major cities in Kerala and Tamil Nadu.</p>
+    
+    <h2>Contact Information</h2>
+    <p>For more details, visit <a href="https://www.keralatourism.org/topic/palakkad">Tourism-Palakkad</a></p>
+ <hr>
+    <p style="text-align: center;">&copy; Palakkad - The Gateway to Kerala. All rights reserved.</p>
+</body>
+</html>
