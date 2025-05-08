@@ -1,1 +1,64 @@
 
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ResUME - JOE ABRAHAM </title>
+</head>
+<body>
+    <h1>JOE ABRAHAM</h1>
+    <p>Email: joeabraham2028@cs.ajc.in</p>
+    <p>Phone: 8848392249</p>
+    <p>Address: Mattapallil(H), panamattom(P.O), Elangulam Kottayam, Kerala</p>
+      
+<h2>Education</h2>
+    <ul> 
+        <li>Chavara CMI Public school,Pala<li>
+        <li>Bachelor of Technology in Computer Science - Amal Jyothi College of Engineering (2024 - 2028)</li>
+    </ul>
+    
+    <h2>ABOUT ME</h2>
+    <p>I'm a Computer Science undergraduate currently in Semester 2. I'm passionate about programming, web development, and exploring how things work under the hood — from operating systems to compilers.</p>
+     <p>Right now, I’m diving into subjects like Digital Logic, and Python programming. I enjoy building small projects and learning new tech tools outside of class too.</p>
+    </p>
+    
+  
+    <h2>Skills</h2>
+    <ul>
+        <li>Programming Languages: C, Python</li>
+        <li>Web Development: HTML, JavaScript</li>
+        <li>Problem Solving & Algorithm Design</li>
+        <li>Leadership Qualities </li>
+        <li>Debate and Recitation </li>
+    </ul>
+    
+    <h2>Experience</h2>
+    <h3>worked as a inter in IIIT cyberlabs ,kottayam </h3>
+    <ul>
+        <li>Worked in various projects.</li>
+        <li>Worked with a team to enhance system efficiency and reliability.</li>
+    </ul>
+    
+    
+    <h2>Projects</h2>
+    <ul>
+        <li><strong>Parkscout :</strong> Developed a car parking slot allotment app.</li>
+    </ul>
+    
+    <h2>Extracurricular Activities</h2>
+    <ul>
+        <li>Gardening</li>
+        <li>Passionate about travelling </li>
+    </ul>
+    <h2>Languages</h2>
+    <ul>
+        <li>English</li>
+        <li>Malayalam</li>
+        
+    </ul>
+
+    
+    <h2>Contact</h2>
+    <p>Email: joeincode@gmail.com</p>
+    <p>GitHub: https://github.com/Jcode28</p>
+</body>
+</html>
