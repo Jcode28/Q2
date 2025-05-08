@@ -1,1 +1,102 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Blog</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #eef2f3;
+        }
+        header {
+            background-color: #4a90e2;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            background-color: #3b7dd8;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            margin: 0 10px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .container {
+            max-width: 900px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        .post {
+            margin-bottom: 30px;
+        }
+        .post h2 {
+            color: #333;
+        }
+        .post .date {
+            color: #888;
+            font-size: 0.9em;
+        }
+        .links {
+            margin-top: 20px;
+            padding: 10px;
+            background-color: #f9f9f9;
+            border-left: 4px solid #4a90e2;
+        }
+        footer {
+            background-color: #4a90e2;
+            color: white;
+            text-align: center;
+            padding: 15px;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>My Blog</h1>
+        <p>Thoughts, projects, and favorite sites from a student</p>
+    </header>
+
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">School Projects</a>
+        <a href="#">My Interests</a>
+        <a href="#">Contact</a>
+    </nav>
+
+    <div class="container">
+        <div class="post">
+            <h2>My First Blog Post</h2>
+            <p class="date">Posted on March 30, 2025</p>
+            <p>Hi! I'm computer science undergraduate sharing my thoughts and cool stuff I'm learning. I love science, coding, and playing video games. Stay tuned for more!</p>
+        </div>
+
+        <div class="post">
+            <h2>Favorite Websites I Use</h2>
+            <p class="date">Posted on April 2, 2025</p>
+            <div class="links">
+                <ul>
+                    <li><a href="https://www.khanacademy.org" target="_blank">Khan Academy</a> – for learning math and science</li>
+                    <li><a href="https://www.github.com" target="_blank">GitHub</a> – where I share my code projects</li>
+                    <li><a href="https://www.reddit.com/r/learnprogramming" target="_blank">r/learnprogramming</a> – for asking coding questions</li>
+                    <li><a href="https://www.youtube.com" target="_blank">YouTube</a> – for tutorials and fun videos</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p>Made by a high school student &copy; 2025</p>
+    </footer>
+</body>
+</html>
